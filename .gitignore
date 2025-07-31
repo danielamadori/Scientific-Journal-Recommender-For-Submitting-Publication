@@ -1,0 +1,7 @@
+/.idea/
+/.ipynb_checkpoints/
+/models/
+Recomendador Revistas Científicas.pdf
+Scientific journal recommender.pdf
+*.bib
+*.pyc
